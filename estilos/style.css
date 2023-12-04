@@ -3,7 +3,7 @@
     font-size: 16px;
 }
 body {
-    background-color: rgb(204, 157, 248);
+    background-color: rgb(188, 132, 241);
 
 
 }
@@ -14,4 +14,15 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
+
+h1 {
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+}
+
+h2 {
+    font-size: 20px;
+    color: rgb(130, 60, 196);
 }
